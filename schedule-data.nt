@@ -1,4 +1,53 @@
 # Το αρχείο N-Triples με τα δεδομένα του ωρολογίου προγράμματος
 # και τις δηλώσεις rdf:type για κάθε οντότητα.
+_:0 <http://dilab77.ionio.gr/swp/provatas/vocab#KATHIGITIS> <http://dilab77.ionio.gr/swp/provatas/resource/Stefanidakis> . 
+_:0 <http://dilab77.ionio.gr/swp/provatas/vocab#MATHIMA> <http://dilab77.ionio.gr/swp/provatas/resource/Simasiologikos%20istos> . 
+_:0 <http://dilab77.ionio.gr/swp/provatas/vocab#AITHOUSA> <http://dilab77.ionio.gr/swp/provatas/resource/2> . 
+_:0 <http://dilab77.ionio.gr/swp/provatas/vocab#EKSAMINO> ":2" . 
+_:0 <http://dilab77.ionio.gr/swp/provatas/vocab#MERA> "Triti" . 
+_:0 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20ENARKSIS> #:15 . 
+_:0 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20LIKSIS> "18:00:00"^^<http://www.w3.org/2001/XMLSchema#time> . 
+_:1 <http://dilab77.ionio.gr/swp/provatas/vocab#KATHIGITIS> <http://dilab77.ionio.gr/swp/provatas/resource/Maggos> . 
+_:1 <http://dilab77.ionio.gr/swp/provatas/vocab#MATHIMA> <http://dilab77.ionio.gr/swp/provatas/resource/Asfaleia%20PS> . 
+_:1 <http://dilab77.ionio.gr/swp/provatas/vocab#AITHOUSA> <http://dilab77.ionio.gr/swp/provatas/resource/1> . 
+_:1 <http://dilab77.ionio.gr/swp/provatas/vocab#EKSAMINO> ":2" . 
+_:1 <http://dilab77.ionio.gr/swp/provatas/vocab#MERA> "Deutera" . 
+_:1 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20ENARKSIS> #:18 . 
+_:1 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20LIKSIS> "21:00:00"^^< http://www.w3.org/2001/XMLSchema#time> . 
+_:2 <http://dilab77.ionio.gr/swp/provatas/vocab#KATHIGITIS> <http://dilab77.ionio.gr/swp/provatas/resource/Vlamos> . 
+_:2 <http://dilab77.ionio.gr/swp/provatas/vocab#MATHIMA> <http://dilab77.ionio.gr/swp/provatas/resource/Viopliroforiki> . 
+_:2 <http://dilab77.ionio.gr/swp/provatas/vocab#AITHOUSA> <http://dilab77.ionio.gr/swp/provatas/resource/2> . 
+_:2 <http://dilab77.ionio.gr/swp/provatas/vocab#EKSAMINO> ":2" . 
+_:2 <http://dilab77.ionio.gr/swp/provatas/vocab#MERA> "Tetarti" . 
+_:2 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20ENARKSIS> #:18 . 
+_:2 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20LIKSIS> "21:00:00"^^< http://www.w3.org/2001/XMLSchema#time> . 
+_:3 <http://dilab77.ionio.gr/swp/provatas/vocab#KATHIGITIS> <http://dilab77.ionio.gr/swp/provatas/resource/Pateli> . 
+_:3 <http://dilab77.ionio.gr/swp/provatas/vocab#MATHIMA> <http://dilab77.ionio.gr/swp/provatas/resource/Epixirein> . 
+_:3 <http://dilab77.ionio.gr/swp/provatas/vocab#AITHOUSA> <http://dilab77.ionio.gr/swp/provatas/resource/1> . 
+_:3 <http://dilab77.ionio.gr/swp/provatas/vocab#EKSAMINO> ":2" . 
+_:3 <http://dilab77.ionio.gr/swp/provatas/vocab#MERA> "Tetarti" . 
+_:3 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20ENARKSIS> #:15 . 
+_:3 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20LIKSIS> "18:00:00"^^< http://www.w3.org/2001/XMLSchema#time> . 
+_:4 <http://dilab77.ionio.gr/swp/provatas/vocab#KATHIGITIS> <http://dilab77.ionio.gr/swp/provatas/resource/Milwnas> . 
+_:4 <http://dilab77.ionio.gr/swp/provatas/vocab#MATHIMA> <http://dilab77.ionio.gr/swp/provatas/resource/Anaparastasi%20gnwsis> . 
+_:4 <http://dilab77.ionio.gr/swp/provatas/vocab#AITHOUSA> <http://dilab77.ionio.gr/swp/provatas/resource/2> . 
+_:4 <http://dilab77.ionio.gr/swp/provatas/vocab#EKSAMINO> ":2" . 
+_:4 <http://dilab77.ionio.gr/swp/provatas/vocab#MERA> "Pempti" . 
+_:4 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20ENARKSIS> #:15 . 
+_:4 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20LIKSIS> "18:00:00"^^< http://www.w3.org/2001/XMLSchema#time> . 
+_:5 <http://dilab77.ionio.gr/swp/provatas/vocab#KATHIGITIS> <http://dilab77.ionio.gr/swp/provatas/resource/Aulwnitis> . 
+_:5 <http://dilab77.ionio.gr/swp/provatas/vocab#MATHIMA> <http://dilab77.ionio.gr/swp/provatas/resource/Prosomoiwsi> . 
+_:5 <http://dilab77.ionio.gr/swp/provatas/vocab#AITHOUSA> <http://dilab77.ionio.gr/swp/provatas/resource/1> . 
+_:5 <http://dilab77.ionio.gr/swp/provatas/vocab#EKSAMINO> ":2" . 
+_:5 <http://dilab77.ionio.gr/swp/provatas/vocab#MERA> "Tetarti" . 
+_:5 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20ENARKSIS> #:18 . 
+_:5 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20LIKSIS> "21:00:00"^^< http://www.w3.org/2001/XMLSchema#time> . 
+_:6 <http://dilab77.ionio.gr/swp/provatas/vocab#KATHIGITIS> <http://dilab77.ionio.gr/swp/provatas/resource/Oikonomou> . 
+_:6 <http://dilab77.ionio.gr/swp/provatas/vocab#MATHIMA> <http://dilab77.ionio.gr/swp/provatas/resource/Eikonikoi%20kosmoi> . 
+_:6 <http://dilab77.ionio.gr/swp/provatas/vocab#AITHOUSA> <http://dilab77.ionio.gr/swp/provatas/resource/2> . 
+_:6 <http://dilab77.ionio.gr/swp/provatas/vocab#EKSAMINO> ":2" . 
+_:6 <http://dilab77.ionio.gr/swp/provatas/vocab#MERA> "Deutera" . 
+_:6 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20ENARKSIS> #:15 . 
+_:6 <http://dilab77.ionio.gr/swp/provatas/vocab#WRA%20LIKSIS> "18:00:00"^^< http://www.w3.org/2001/XMLSchema#time> . 
 
 
