@@ -21,10 +21,9 @@ vocab:WRA%20LIKSIS rdfs:domain vocab:Lecture .
 vocab:MERA rdfs:domain vocab:Lecture .
 
 vocab:KATHIGITIS rdfs:range vocab:Teacher .
-vocab:MATHIMA rdfs:range vocab:Lecture .
+vocab:MATHIMA rdfs:range vocab:Course .
 vocab:AITHOUSA rdfs:range vocab:Room .
 vocab:EKSAMINO rdfs:range xsd:string .
 vocab:WRA%20ENARKSIS rdfs:range xsd:time .
 vocab:WRA%20LIKSIS rdfs:range xsd:time .
 vocab:MERA rdfs:range xsd:string .
-
